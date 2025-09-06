@@ -1,0 +1,38 @@
+body {
+    color: aliceblue;
+    background-color: #252422;
+}
+
+a {
+    color: aliceblue;
+    
+}
+
+a:hover {
+    color: black;
+    
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.nav-pills .nav-link.active {
+    background-color: black;
+}
+
+.socials {
+    color: aliceblue;
+}
+
+
+.custom-footer .nav-link.footer-link {
+  color: #1DA1F2 !important;
+  text-decoration: none;      
+}
+
+
